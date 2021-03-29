@@ -5,3 +5,5 @@ freddy vega me esta enseñando a hacer repositorios con git
 estoy muy emocionado.
 
 hoy es 20/03/2021
+
+podemos hablar de lo grande de git
